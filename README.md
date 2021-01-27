@@ -1,2 +1,0 @@
-# Oliver
-Hola, soy nueva en Desarrollo de Software inicie la Universidad hace tres meses y estoy aprendiendo Python  Decidi crear un Asistente Virtual da su nombre pero no esta reconociendo las instrucciones que le doy termina de ejecutar y no escribe o dice nada.  Me pueden ayudar por favor. De antemano pido disculpas se que es algo basico no se cual sea el problema que tengo. Agradecieria la ayuda para seguir aprendiendo de mis errores
